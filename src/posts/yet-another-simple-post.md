@@ -1,6 +1,6 @@
 ---
 title: Yet another simple post
-date: 2020-10-29
+date: 2020-10-28T23:00:00Z
 tags:
 - demo-content
 - simple-post
@@ -9,6 +9,8 @@ description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork 
 
 ---
 Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
+
+![](/images/dec13eaa-19c5-4de9-a0db-659fa92d26e3.jpeg)
 
 ## How about a `<blockquote>`?
 
@@ -31,3 +33,7 @@ Bitters bushwick schlitz, 3 wolf moon tofu hoodie beard bicycle rights truffaut 
 ## Monospace Text wrapped in "pre" tags:
 
 <pre>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</pre>
+
+## So markdown writing works.
+
+I wonder how cut and paste is?
