@@ -14,3 +14,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- src/posts/how-a-technology-company-schooled-nonprofits-on-transparency.md
