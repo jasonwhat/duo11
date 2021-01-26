@@ -10,9 +10,9 @@ description: Ronald Reagan goes to a fair.
 ---
 The Governor of California and newly minted Republican nominee for president steps to the lectern on a scorching August day. A large American flag is draped behind him, but the white people in the crowd before him wave different flags: some hold the Confederate flag, others the Mississippi state flag, which also happens to include a Confederate flag within it. This is the Neshoba County Fair. The year is 1980. And this is Ronald Reagan’s coming out party.
 
-![Colorful cabins at the Neshoba County Fair](/media/16f6c95a-0d27-4dee-b51d-e7de69cbbea2.jpeg "Neshoba County Fair")
+![](https://hellowojo.ghost.io/content/images/size/w1140/2021/01/B6B1CAA5-2DD8-42D2-B732-E2BD75B9CB3B.jpeg)
 
-Summertime in the US is packed with fairs across the country, but none are quite like Neshoba. Over 600 colorful cabins that have been in Mississippi families for generations surround the fairgrounds. Locals call it "**[Mississippi’s Giant House Party](http://www.neshobacountyfair.org/history/cabinlife/)**."
+Summertime in the US is packed with fairs across the country, but none are quite like Neshoba. Over 600 colorful cabins that have been in Mississippi families for generations surround the fairgrounds. Locals call it "[**Mississippi’s Giant House Party**](http://www.neshobacountyfair.org/history/cabinlife/)."
 
 Held since 1889, the fair is a gathering spot for statewide candidates, but never a presidential contender. National candidates rarely appeared and certainly not hated Republicans -- the party that freed the slaves and forced martial law and Reconstruction on the South.
 
@@ -30,21 +30,21 @@ Reagan was here to finally fulfill the GOP dream of shifting racist southern whi
 
 > Segregation now, segregation tomorrow, segregation forever.
 
-![IMG_1631](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/CBD2C923-D1CD-4DD9-AF6F-5847342F6390_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/CBD2C923-D1CD-4DD9-AF6F-5847342F6390_1)
 
-The split between the ‘yellow dog’ southern Democrats, who would vote for a mutt before they’d vote for a Republican, and the rest of the party, peaked in the 1960s, but **[started in 1948](https://www.smithsonianmag.com/history/1948-democratic-convention-878284/)**. The Democratic National Convention that year was marred by infighting between liberal northerners who wanted support for voting rights and anti-lynching laws in the platform, and southerners vehemently opposed. Many southern delegates walked out of the DNC after losing the vote. Those who stayed nominated a protest candidate against President Harry Truman.
+The split between the ‘yellow dog’ southern Democrats, who would vote for a mutt before they’d vote for a Republican, and the rest of the party, peaked in the 1960s, but [**started in 1948**](https://www.smithsonianmag.com/history/1948-democratic-convention-878284/). The Democratic National Convention that year was marred by infighting between liberal northerners who wanted support for voting rights and anti-lynching laws in the platform, and southerners vehemently opposed. Many southern delegates walked out of the DNC after losing the vote. Those who stayed nominated a protest candidate against President Harry Truman.
 
-![IMG_1632](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/2CF91344-0C49-42F7-81D2-972C06414182_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/2CF91344-0C49-42F7-81D2-972C06414182_1)
 
 Two weeks later, Truman would issue an Executive Order integrating the military and federal government. The Dixiecrats held their own nominating convention supporting Strom Thurmond for president. They called themselves the **States’ Rights Party**.
 
-The integration of schools was still a hot-button issue at the close of the 1970s. A young **[Joe Biden sought alliance](https://edition.cnn.com/2019/04/11/politics/joe-biden-busing-letters-2020/index.html)** with other Democrats, including openly-racist Mississippi politicians to halt federally mandated busing programs.
+The integration of schools was still a hot-button issue at the close of the 1970s. A young [**Joe Biden sought alliance**](https://edition.cnn.com/2019/04/11/politics/joe-biden-busing-letters-2020/index.html) with other Democrats, including openly-racist Mississippi politicians to halt federally mandated busing programs.
 
-But a shift was occurring. The **[Grand Wizard of the KKK](https://books.google.be/books?redir_esc=y&hl=nl&id=6O_XYBMhNYAC&q=reagan#v=snippet&q=reagan&f=false)** said the Republican platform in 1980, "Reads as if it was written by a Klansman," and openly endorsed Ronald Reagan.
+But a shift was occurring. The [**Grand Wizard of the KKK**](https://books.google.be/books?redir_esc=y&hl=nl&id=6O_XYBMhNYAC&q=reagan#v=snippet&q=reagan&f=false) said the Republican platform in 1980, "Reads as if it was written by a Klansman," and openly endorsed Ronald Reagan.
 
 In this context, Reagan told the fair goers that control of education should be with the states. And then he said the two words they had been longing to hear:
 
-> *I believe in **states’ rights.** … And I believe that we’ve distorted the balance of our government today by giving powers that were never intended in the Constitution to that federal establishment.*
+> _I believe in **states’ rights.** … And I believe that we’ve distorted the balance of our government today by giving powers that were never intended in the Constitution to that federal establishment._
 
 ## Place
 
@@ -54,7 +54,7 @@ If Neshoba was unknown to many at the time, the name Philadelphia, Mississippi w
 
 Michael Schwerner, a white New Yorker, had been [organizing Black voters](https://www.history.com/this-day-in-history/slain-civil-rights-workers-found) as a field worker in the area for the Congress on Racial Equality (CORE) for all of 1964. The Mississippi KKK sent word that the young man they cleverly nicknamed "Jewboy" was to be eliminated. Klansman showed up at the Methodist Church that was operating as a Freedom School in Neshoba County looking for Schwerner. When they learned he was in Ohio for a training they beat church members and burned the church to the ground.
 
-![IMG_1633](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/81C81B8B-EDB7-44BB-AAF2-A37744EE86D0_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/81C81B8B-EDB7-44BB-AAF2-A37744EE86D0_1)
 
 Schwerner returned from the CORE training with a new recruit, Andrew Goodman, 20, and a local black activist James Chaney, 21. The three went to inspect the church.
 
@@ -64,7 +64,7 @@ The three were held in the county jail for seven hours and told they were arson 
 
 ## MIBURN
 
-Deputy Sheriff Price was a proud KKK member, and not long before the murders the Neshoba County Sheriff who hired Price was celebrated at a Klan rally. He surveyed the Klansman and **[said they were](https://youtu.be/bnVdAC1ZkO8)**, "Fine people and a mighty good organization."
+Deputy Sheriff Price was a proud KKK member, and not long before the murders the Neshoba County Sheriff who hired Price was celebrated at a Klan rally. He surveyed the Klansman and [**said they were**](https://youtu.be/bnVdAC1ZkO8), "Fine people and a mighty good organization."
 
 Attorney General Robert F. Kennedy was outraged by the brazen attitude of local law enforcement and pressured FBI Director Hoover to direct massive resources to the case.
 
@@ -76,7 +76,7 @@ No arrests were made and no charges brought by the state of Mississippi even aft
 
 The segregationist federal judge who presided explained the light sentences:
 
-> *They killed one n\*\*\*\*r, one Jew, and a white man. I gave them what I thought they deserved.*
+> _They killed one n****r, one Jew, and a white man. I gave them what I thought they deserved._
 
 When Reagan mentioned the "federal establishment" in Neshoba he wasn’t just talking about tax policy. He was invoking the spectre of pro-integration federal policy, meddling FBI agents, even Union troops. He was using barely coded language to say, "I’m with you." Some of the men involved in the killings were very likely in the crowd that day.
 
@@ -92,9 +92,9 @@ Killen, understandably thinking the killers were untouchable, granted an intervi
 
 ## Peanuts
 
-![IMG_1634](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/C58DF843-708E-416B-941B-213602985993_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/C58DF843-708E-416B-941B-213602985993_1)
 
-Brown v. Board of Education was a landmark Supreme Court decision in 1954 that outlawed segregated schools. The backlash was swift in the South and community leaders **[visited a peanut farmer at his warehouse](https://www.latimes.com/opinion/op-ed/la-oe-0906-berman-carter-civil-rights-20150906-story.html)** in Plains, Georgia. They invited him to join the White Citizens’ Council. He declined. They returned again a few days later and said he was the only person in Plains who had not joined. He still refused. Finally, they recruited his customers and came again demanding he join or risk losing their business. They explained he only needed to pay the $5 membership fee and they would give it to him if he didn’t have the money.
+Brown v. Board of Education was a landmark Supreme Court decision in 1954 that outlawed segregated schools. The backlash was swift in the South and community leaders [**visited a peanut farmer at his warehouse**](https://www.latimes.com/opinion/op-ed/la-oe-0906-berman-carter-civil-rights-20150906-story.html) in Plains, Georgia. They invited him to join the White Citizens’ Council. He declined. They returned again a few days later and said he was the only person in Plains who had not joined. He still refused. Finally, they recruited his customers and came again demanding he join or risk losing their business. They explained he only needed to pay the $5 membership fee and they would give it to him if he didn’t have the money.
 
 He replied:
 
@@ -108,13 +108,13 @@ But the Peanut Farmer also devoted his campaign to turning out newly enfranchise
 
 He defeated George Wallace for the 1976 presidential nomination and invited Barbara Jordan, the first female Black member of Congress from the South since Reconstruction to give the keynote address at the convention. Andrew Young, also a new Black representative from the South officially nominated Carter. Martin Luther King, Sr. gave the closing benediction.
 
-![IMG_1635](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/48BADAC9-DE83-485A-BA38-A40EDBC78A2F_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/48BADAC9-DE83-485A-BA38-A40EDBC78A2F_1)
 
-The Carter campaign utilized the Voting Rights Act to turn out Black voters in the South. His candidacy helped bring nearly **[half of the Black population](https://www2.census.gov/programs-surveys/cps/tables/p20/322/tab02.pdf)** to the polls in 1976.
+The Carter campaign utilized the Voting Rights Act to turn out Black voters in the South. His candidacy helped bring nearly [**half of the Black population**](https://www2.census.gov/programs-surveys/cps/tables/p20/322/tab02.pdf) to the polls in 1976.
 
-> *The survey results strongly suggest that the President (Ford) and Mr. Carter would run about even among white voters, with, Mr. Ford possibly edging out the former Governor by a slim margin. However, when blacks are added, Mr. Carter would win by about 6 percentage points.*
+> _The survey results strongly suggest that the President (Ford) and Mr. Carter would run about even among white voters, with, Mr. Ford possibly edging out the former Governor by a slim margin. However, when blacks are added, Mr. Carter would win by about 6 percentage points._
 >
-> \-- **[Poll Shows Blacks Decisive for Carter In Lead Over Ford , New York Times, June 2, 1976](https://www.nytimes.com/1976/06/02/archives/poll-shows-blacks-decisive-for-carter-in-lead-over-ford-blacks.html)**
+> \-- [**Poll Shows Blacks Decisive for Carter In Lead Over Ford , New York Times, June 2, 1976**](https://www.nytimes.com/1976/06/02/archives/poll-shows-blacks-decisive-for-carter-in-lead-over-ford-blacks.html)
 
 Carter won by 2 points but secured Electoral College victory thanks to his dominating performance in the South.
 
@@ -138,9 +138,9 @@ Atwater characterized ‘The Populists’ as middle and lower class whites who s
 
 By Atwater’s calculations, the populists swung the South to either party -- aligning with Black voters as yellow dog Democrats or with the wealthy GOP base if their race-based prejudices were stoked.
 
-If you are thinking Atwater was uninterested in attracting Black voters, you should know that after pages and pages on turning out populists he devoted three whole points in his memo to courting Black folks. One of them reads: ***The Need for More Study: There is plenty of research left to be done!***
+If you are thinking Atwater was uninterested in attracting Black voters, you should know that after pages and pages on turning out populists he devoted three whole points in his memo to courting Black folks. One of them reads: **_The Need for More Study: There is plenty of research left to be done!_**
 
-![IMG_1636](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/96787A43-2075-4E9D-9647-444C67EE80A6_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/96787A43-2075-4E9D-9647-444C67EE80A6_1)
 
 With tables and graphs Atwater described how a higher Black population and more Black voters meant stronger turnout by fearful, racist whites. This is why Reagan found himself giving his first post-convention speech at the Neshoba County Fair.
 
@@ -148,19 +148,19 @@ And it worked.
 
 Here is Carter’s 1976 map, a solidly blue South only broken by Virginia:
 
-![IMG_1637](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/AD122B75-066C-4531-88D8-E19CE8654200_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/AD122B75-066C-4531-88D8-E19CE8654200_1)
 
 And here are the fruits of Atwater’s strategy:
 
-![IMG_1638](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/5F827C98-FE09-4855-ADBF-E0BF548AF2B2_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/5F827C98-FE09-4855-ADBF-E0BF548AF2B2_1)
 
 Carter actually increased the Black vote in 1980 and retained his domineering 83% support amongst them, but Reagan tore into his white support.
 
-![IMG_1639](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/A60810C5-5F0E-4A10-A307-850855BCC379_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/A60810C5-5F0E-4A10-A307-850855BCC379_1)
 
 Carter only held onto his home state of Georgia. While the map looks unequivocal Reagan barely won the Deep South with margins of victory within 2.1% and just .2% in Mississippi. He gained 1,200 of his needed votes in Neshoba County alone.
 
-![IMG_1640](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/072CEA76-BC34-491F-B04A-E2D3034A0089_1)
+![IMG](https://res.craft.do/user/preview/b2e6bb0e-973f-4b9f-5cd1-41d8c8e749df/072CEA76-BC34-491F-B04A-E2D3034A0089_1)
 
 By 1984, the South would be lost with Reagan ushering in a wave Republican Senators, Representatives, Governors and even local judges.
 
@@ -168,7 +168,7 @@ Southerner Bill Clinton was able to sneak in a few southern states with the help
 
 > Political hegemony for a generation is a matter of minor slippages. The difference between minority and majority is only a few percentage points.
 >
-> -- [Kevin Phillips, 1970](https://www.nytimes.com/packages/html/books/phillips-southern.pdf)
+> \-- [Kevin Phillips, 1970](https://www.nytimes.com/packages/html/books/phillips-southern.pdf)
 
 ## Legacy
 
